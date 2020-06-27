@@ -1,4 +1,4 @@
 # BramaMSE
 
-Simulation model for the Pacific pomfret Brama australis in Chilean waters.
+Simulation model for the Pacific pomfret _Brama australis_ population in Chilean waters.
 
